@@ -9,7 +9,7 @@ Primeiro projeto é uma lista de tarefas desenvolvida em HTML, CSS e JS podendo 
 As principais tecnologias, ferramentas e bibliotecas que você usou no seu projeto.
 
 - HTML: Para estruturação do conteúdo da página em elementos como div, button, input, classes e forms;
-- CSS: Para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e variáveis;
+- CSS: Para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e hover;
 - JS: Para interações da criação, exclusão e edição de tarefas usamos functions, if/else, event, querySelector, window.confirm;
 
 # 😎 Veja como o projeto ficou:
