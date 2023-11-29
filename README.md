@@ -10,7 +10,7 @@ As principais tecnologias, ferramentas e bibliotecas que você usou no seu proje
 
 - HTML: Para estruturação do conteúdo da página em elementos como div, button, input, classes e forms;
 - CSS: Para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e variáveis;
-- JS: , window.confirm;
+- JS: event, querySelector, window.confirm;
 
 # 😎 Veja como o projeto ficou:
  
